@@ -20,7 +20,7 @@ type UploadResult = {
 }
 
 // https://docs.joinmastodon.org/user/profile/#avatar
-const AVATAR_VARIANT = 'https://img.taiki.net/icon.jpg'
+const AVATAR_VARIANT = 'avatar'
 
 // https://docs.joinmastodon.org/user/profile/#header
 const HEADER_VARIANT = 'header'
